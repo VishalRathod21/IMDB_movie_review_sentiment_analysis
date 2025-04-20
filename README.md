@@ -20,8 +20,7 @@ An end-to-end sentiment analysis solution for IMDB movie reviews using:
 | `simplernn.ipynb`        | Jupyter notebook for training Simple RNN model                   |
 | `embedding.ipynb`        | Exploratory analysis of embedding techniques                     |
 | `prediction.ipynb`       | Notebook for making predictions with trained model               |
-| `main.py`                | Command-line interface for predictions                           |
+| `main.py`                | Streamlit code interface file                                    |
 | `simple_rnn_imdb.h5`     | Pretrained Keras model weights                                   |
-| `app.py`                 | Streamlit web application (main interface)                       |
 | `requirements.txt`       | Python dependencies                                              |
 
